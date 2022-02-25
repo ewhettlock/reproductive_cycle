@@ -1,3 +1,6 @@
+#Integration of 4 datasets into 1. This was mostly written based on the guide linked here
+# https://satijalab.org/seurat/articles/integration_introduction.html
+
 #Loading libraries
 library(dplyr)
 library(Seurat)
