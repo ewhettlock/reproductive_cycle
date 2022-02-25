@@ -169,6 +169,6 @@ VlnPlot(all, features = c("IL2RA"))
 table(all$Dataset, all$seurat_clusters)
 table(all$annotation, all$seurat_clusters)
 
-
+#Clusters were identified using the "annotation" metadata from the first trimester dataset, alongside the cluster markers 
 
 
