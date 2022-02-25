@@ -1,5 +1,6 @@
 #The scRNAseq dataset (dbGaP phs001886.v1.p1, reanalyzed with permission of the NIH, project ID 145 26528) contained nine third trimester partipants
 #This data was given in .sra files. This was converted to fastq files and run through cell ranger using h19 as a reference.
+# This code was written with the help of this tutorial https://satijalab.org/seurat/articles/pbmc3k_tutorial.html
 
 #Loading libraries
 library(dplyr)

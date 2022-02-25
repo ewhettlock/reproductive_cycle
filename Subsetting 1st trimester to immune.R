@@ -1,5 +1,6 @@
 #First trimester dataset (available at Array Express E-MTAB-6701) was converted from a .txt file to an R Seurat object.
 #Then subsetted to immune cells using the "annotation" column of the metadata
+# This code was written with the help of this tutorial https://satijalab.org/seurat/articles/pbmc3k_tutorial.html
 
 #Loading libraries
 library(dplyr)
