@@ -9,7 +9,7 @@ The non pregnant data and first trimester data are open access. The second trime
 
 The non pregnant data is from "Mapping the temporal and spatial dynamics of the human endometrium in vivo and in vitro" 2021 -  [Link to article](https://www.nature.com/articles/s41588-021-00972-2).
 The first trimester data is from "Single-cell reconstruction of the early maternal–fetal interface in humans" 2018 -  [Link to article](https://www.nature.com/articles/s41586-018-0698-6).
-The second and third trimester data are from "Single cell transcriptional signatures of the human placenta in term and preterm parturition" 2019 - [Link to article](ttps://elifesciences.org/articles/52004)
+The second and third trimester data are from "Single cell transcriptional signatures of the human placenta in term and preterm parturition" 2019 - [Link to article](https://elifesciences.org/articles/52004)
 
 ## Subsetting 
 There are four files explaining how each dataset was analysed and subset to just immune cells.
